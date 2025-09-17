@@ -44,6 +44,7 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        "harvvie-offwhite": "#FAF9F6", // Off-white for backgrounds
         "harvvie-navy": "#0D1B2A", // Dark navy for buttons and dark text
         "harvvie-light-gray": "#E1E2E1", // Light gray for backgrounds
         "harvvie-cream": "#F5E6CA", // Main cream background
