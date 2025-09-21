@@ -1,6 +1,8 @@
 import Header from "./components/Header"
 import HeroSection from "./components/HeroSection"
 import ImageSlider from "./components/ImageSlider"
+import FeaturedCollections from "./components/FeaturedCollections"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -8,6 +10,8 @@ function App() {
       <Header />
       <HeroSection />
       <ImageSlider />
+      <FeaturedCollections />
+      <Footer />
     </div>
   )
 }
